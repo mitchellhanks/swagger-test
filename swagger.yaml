@@ -5,7 +5,7 @@ info:
   title: "Mitch Test API"
   termsOfService: "http://swagger.io/terms/"
   contact:
-    email: "noreply@github.com"
+    email: 
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
